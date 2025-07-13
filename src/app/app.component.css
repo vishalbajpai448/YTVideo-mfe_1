@@ -1,0 +1,13 @@
+#remote-app {
+    width: 600px;
+    height: 200px;
+    border: 2px dashed #007bff;
+    background-color: #f0f8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
